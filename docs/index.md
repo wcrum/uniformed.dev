@@ -73,11 +73,21 @@ hide:
 
 </div>
 <style>
-.md-typeset .grid {
-    grid-gap: .4rem;
-    display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(20rem,2fr));
-    margin: 1em 0;
+@media only screen and (max-width: 600px) {
+    .md-typeset .grid {
+        grid-gap: .4rem;
+        display: grid;
+        grid-template-columns: repeat(auto-fit,minmax(16rem,1fr));
+        margin: 1em 0;
+    }
+}
+@media only screen and (min-width: 600px) {
+    .md-typeset .grid {
+        grid-gap: .4rem;
+        display: grid;
+        grid-template-columns: repeat(auto-fit,minmax(20rem,1fr));
+        margin: 1em 0;
+    }
 }
 </style>
 
