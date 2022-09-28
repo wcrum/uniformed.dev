@@ -1,0 +1,114 @@
+site_name: Uniformed Developers
+
+site_name: Uniformed Developers
+site_url: https://uniformed.dev/
+site_description: "Uniformed Developers is a community of practice and focused on driving innovation for uniformed service members across the Department of Defense."
+
+repo_url: https://github.com/elisoncrum/uniformed.dev
+repo_name: elisoncrum/uniformed.dev
+edit_uri: ""
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  language: en
+
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+    - scheme: marinecoders-light
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+  static_templates:
+    - 404.html
+
+  include_search_page: false
+  search_index_only: true
+
+  features:
+    - content.code.annotate
+    - content.tooltips
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - announce.dismiss
+    
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - def_list
+  - toc:
+      permalink: ⚓︎
+  - footnotes
+  - admonition
+  - pymdownx.details
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.smartsymbols
+  - pymdownx.progressbar
+  - tables
+  - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - footnotes
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - social:
+      cards_color:
+        fill: "#252a34" 
+        text: "#FFFFFF"
+
+extra:
+  social:
+    - icon: fontawesome/solid/square-rss
+      link: https://uniformed.dev/feed_rss_created.xml
+      
+  consent:
+    title: Cookie Consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our conten and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our site better.</br>
+    actions:
+      - accept
+      - reject
+      
+nav:
+  - Home: 'https://uniformed.dev'
+
+banner:
+  title: This is a Secure Public Website
+  dropdown:
+    left: >
+      <strong>Official Military websites use .mil</strong><br>
+      This is not an official site. A .mil website belongs to an official government organization
+      in the United States.
+    right: >
+      <strong>Secure .dev websites use HTTPS</strong><br>
+      A lock (<span class="icon-lock">🔒</span>) or https:// means you've safely connected to the .dev website. Share
+      sensitive information only on official, secure websites.
