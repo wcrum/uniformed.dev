@@ -5,7 +5,7 @@ hide:
 ---
 
 <h1 align="center" class="typerheader">
- We are groups of
+ We are a community of
   <a href="#" class="typewrite" data-period="2000" data-type='[ "Developers.", "Marines.", "Sailors.", "Engineers.", "Airmen.", "Guardians.", "Veterans."]'>
     <span class="wrap"></span>
   </a>
