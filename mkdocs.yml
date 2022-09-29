@@ -15,8 +15,8 @@ theme:
 
   icon:
     repo: fontawesome/brands/github
-  favicon: assets/logo.png
-  logo: assets/logo.png
+  favicon: assets/uniformed_logo.png
+  logo: assets/uniformed_logo.png
 
   palette:
     - scheme: slate
@@ -96,7 +96,7 @@ extra:
     title: Cookie Consent
     description: >- 
       We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our conten and whether users
+      as to measure the effectiveness of our content and whether users
       find what they're searching for. With your consent, you're helping us to
       make our site better.</br>
     actions:
@@ -105,6 +105,10 @@ extra:
       
 nav:
   - Home: 'https://uniformed.dev'
+  - "Software Factories": swf.md
+  - "Communities": swf.md
+  - "Organizations": organizations.md
+  - "Projects": projects.md
 
 banner:
   title: This is a Secure Public Website

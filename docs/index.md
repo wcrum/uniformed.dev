@@ -4,12 +4,15 @@ hide:
   - navigation
 ---
 
-<h1 align="center" class="typerheader">
+<h1 style="font-weight: 300" align="center" class="typerheader">
  We are a community of
-  <a href="#" class="typewrite" data-period="2000" data-type='[ "Developers.", "Marines.", "Sailors.", "Engineers.", "Airmen.", "Guardians.", "Veterans."]'>
+  <a style="font-weight: 400" href="#" class="typewrite" data-period="2000" data-type='[ "Developers.", "Marines.", "Sailors.", "Engineers.", "Airmen.", "Guardians.", "Veterans."]'>
     <span class="wrap"></span>
   </a>
 </h1>
+<h4 align="center" style="font-weight: 100 !important;">
+  <em>- A place for service members to collaborate and innovate within the Department of Defense.</em>
+</h4>
 
 <div class="grid cards" markdown>
 
@@ -48,6 +51,7 @@ hide:
 
 </div>
 
+## Software Factories
 
 ## Other Organizations
 
