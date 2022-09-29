@@ -2,7 +2,13 @@
 
 Are you looking for an extra project to sharpen your skill set? 
 
+## Project on Innovation in National Security
+![DEF Logo](assets/organizations/def.png){: align="left" style="width:150px;"}
+The Project on Innovation in National Security is an exploratory effort incubated by the [Defense Entrepreneurs Forum](https://www.def.org/) that seeks to increase understanding of the national security innovation ecosystem, improve data literacy, and support learning mindsets with opportunities to experiment.
 
+[:octicons-arrow-right-24: Learn more about this Project](https://www.nationalsecurityinnovation.org/)
+
+</br>
 ## Government Github
 ![Github Logo](assets/organizations/github.png){: align="right" style="width:150px;"}
 Want to find an Open Source project you can contribute to right now? [Government Github](https://government.github.com/) has a list of every single public government organization on Github. This is an easy and fast way to find repositories that interest you.
