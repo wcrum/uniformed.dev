@@ -37,6 +37,7 @@ theme:
 
   features:
     - content.code.annotate
+    - content.tabs.link
     - content.tooltips
     - navigation.indexes
     - navigation.sections

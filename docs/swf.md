@@ -11,13 +11,13 @@ hide:
 
     [![Overmatch Logo](assets/branches/usaf.png){: style="width: 150px"}](/swf/usaf)
 
--   [__U.S. Space Force__](/swf/ussf)
+-   [__U.S. Space Force__](/swf/usaf/#us-space-force)
 
-    [![Overmatch Logo](assets/branches/ussf.png){: style="width: 150px"}](/swf/ussf)
+    [![Overmatch Logo](assets/branches/ussf.png){: style="width: 150px"}](/swf/usaf/#us-space-force)
 
--   [__U.S. Army__](/swf/us_army)
+-   [__U.S. Army__](/swf/army)
 
-    [![Overmatch Logo](assets/branches/us_army.png){: style="width: 150px"}](/swf/us_army)
+    [![Overmatch Logo](assets/branches/us_army.png){: style="width: 150px"}](/swf/army)
 
 -   [__U.S. Navy__](/swf/usn)
 

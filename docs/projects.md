@@ -6,7 +6,11 @@ comments: true
 
 # Find a Project!
 
-Are you looking for an extra project to sharpen your skill set? 
+Are you looking for an extra project to sharpen your skill set?
+
+## Tactical Assault Kit
+![TAK Logo](assets/organizations/tak.svg){: align="right" style="width:150px"}
+TAK is the core of a suite of georeferenced imagery and communications tools that allow for scaled operational planning, data sharing, visualized elevation data, and target management. With TAK, your team can get oriented quickly, make better informed decisions and quickly respond to threats. Add TAK to your operations, and make sure when your team deploys, you have the unfair advantage.
 
 ## Project on Innovation in National Security
 ![DEF Logo](assets/organizations/def.png){: align="left" style="width:150px;"}
