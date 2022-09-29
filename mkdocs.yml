@@ -93,7 +93,8 @@ extra:
   social:
     - icon: fontawesome/solid/square-rss
       link: https://uniformed.dev/feed_rss_created.xml
-      
+  extra:
+    generator: false
   consent:
     title: Cookie Consent
     description: >- 
@@ -104,8 +105,10 @@ extra:
     actions:
       - accept
       - reject
+
 copyright: >
-  This website has no affiliation with the Department of Defense or organizations mentioned.
+  This website has no affiliation with the Department of Defense or organizations mentioned. </br> 
+  <small>All of the information on this site has been publicly sourced.</small>
 
 nav:
   - Home: 'https://uniformed.dev'
@@ -121,7 +124,7 @@ banner:
     left: >
       <strong>Official Military websites use .mil</strong><br>
       This is <strong>not</strong> an official site. A .mil website belongs to an official government organization
-      in the United States.
+      in the United States. All of the information on this site has been publicly sourced.
     right: >
       <strong>Secure .dev websites use HTTPS</strong><br>
       A lock (<span class="icon-lock">🔒</span>) or https:// means you've safely connected to the .dev website. Share
