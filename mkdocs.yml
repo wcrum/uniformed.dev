@@ -3,6 +3,7 @@ site_name: Uniformed Developers
 site_name: Uniformed Developers
 site_url: https://uniformed.dev/
 site_description: "Uniformed Developers is a community of practice and focused on driving innovation for uniformed service members across the Department of Defense."
+slogan: "Innovation in any Uniform"
 
 repo_url: https://github.com/elisoncrum/uniformed.dev
 repo_name: elisoncrum/uniformed.dev
@@ -53,7 +54,7 @@ extra_css:
 markdown_extensions:
   - def_list
   - toc:
-      permalink: ⚓︎
+      permalink: true
   - footnotes
   - admonition
   - pymdownx.details
@@ -102,16 +103,18 @@ extra:
     actions:
       - accept
       - reject
-      
+copyright: >
+  This website has no affiliation with the Department of Defense or organizations mentioned.
+
 nav:
   - Home: 'https://uniformed.dev'
   - "Software Factories": swf.md
-  - "Communities": swf.md
+  - "Communities": communities.md
   - "Organizations": organizations.md
   - "Projects": projects.md
 
 banner:
-  title: This is a Secure Public Website
+  title: This is a Public Secure .dev Website
   dropdown:
     left: >
       <strong>Official Military websites use .mil</strong><br>

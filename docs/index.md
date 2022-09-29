@@ -14,6 +14,20 @@ hide:
   <em>- A place for service members to collaborate and innovate within the Department of Defense.</em>
 </h4>
 
+<div class="cards grid special" markdown>
+
+-   [:material-factory:{ .lg .middle } __Software Factories__](/swf)
+
+-   [:fontawesome-solid-people-group:{ .lg .middle } __Join a Community__](/communities)
+
+-   [:octicons-organization-24:{ .lg .middle } __Find an Organization__](/organizations)
+
+-   [:material-tools:{ .lg .middle } __Learn about Projects__](/projects)
+
+</div>
+
+</br>
+
 <div class="grid cards" markdown>
 
 -   __Airmen Coders__
@@ -51,32 +65,22 @@ hide:
 
 </div>
 
-## Software Factories
-
-## Other Organizations
-
-<div class="grid cards" markdown>
-
--   __Operation Code__
-
-    ---
-
-    ![Operation Code Logos](assets/organizations/large-blue-logo.webp){: align="left" width="150px"}
-    We're the largest community of military veterans, service members, and spouses committed to becoming software developers with the help of mentors, scholarships, and our tech partners.
-
-    [:octicons-arrow-right-24: Operation Code](https://operationcode.org/)
-
--   __The Joint Software Alliance__
-
-    ---
-    ![JSOFT Logos](assets/organizations/JSOFT_Logo_Color.webp){: align="left" width="150px"}
-    U.S. Space Force coders creating innovative, cutting-edge software to enhance warfighter capabilities in an ever-evolving digital domain.
-
-    [:octicons-arrow-right-24: Joint Software Alliance](https://supracoders.us/)
-
-
-</div>
 <style>
+.special {
+    grid-gap: .4rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(4rem,1fr)) !important;
+    margin: 1em 0;
+}
+
+.special li {
+    text-align: center;
+}
+
+.special a {
+    display: block;
+}
+
 @media only screen and (max-width: 600px) {
     .md-typeset .grid {
         grid-gap: .4rem;
