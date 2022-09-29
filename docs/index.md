@@ -6,7 +6,7 @@ hide:
 
 <h1 style="font-weight: 300" align="center" class="typerheader">
  We are a community of
-  <a style="font-weight: 400" href="#" class="typewrite" data-period="2000" data-type='[ "Developers.", "Marines.", "Sailors.", "Engineers.", "Airmen.", "Guardians.", "Veterans."]'>
+  <a style="font-weight: 400" href="#" class="typewrite" data-period="2000" data-type='[ "Developers.", "Marines.", "Sailors.", "Engineers.", "Airmen.", "Innovators.", "Guardians.", "Veterans."]'>
     <span class="wrap"></span>
   </a>
 </h1>
@@ -27,43 +27,6 @@ hide:
 </div>
 
 </br>
-
-<div class="grid cards" markdown>
-
--   __Airmen Coders__
-
-    ---
-
-    ![Airmen Coders Logo](assets/organizations/airmencoders.png){: align="left" style="width:150px;"}
-    We are a group of U.S. Air Force Airmen who use code to improve the lives of our fellow Airmen. Airmen Coders is proudly `#PoweredByTron`
-
-    [:octicons-arrow-right-24: Airmen Coders](https://airmencoders.us/)
-
--   __Supra Coders__
-
-    ---
-    ![Supra Coders Logo](assets/organizations/supracoders.png){: align="left" style="width:150px;"}
-    U.S. Space Force coders creating innovative, cutting-edge software to enhance warfighter capabilities in an ever-evolving digital domain.
-
-    [:octicons-arrow-right-24: Supra Coders](https://supracoders.us/)
-
--   __Marine Coders__
-
-    ---
-    ![Marine Coders Logo](assets/organizations/marinecoders_small_text_invert.png){: align="left" style="width:150px;"}
-    Marine Coders is a non-official organization comprised of Active Duty/Reserve Marines, Marine Veterans, and U.S. Citizens who want to help Marines through code.
-
-    [:octicons-arrow-right-24: Marine Coders](https://marines.dev)
-
--   __Army Coders__
-
-    ---
-    ![Army Coders Logos](assets/organizations/armycoders_logo1.png){: align="left" style="width:150px;"}
-    Continuously recylcing the effort and expanding as we go. Building a grassroots effort to connect Soldier Coders to coding and training resources.
-
-    [:octicons-arrow-right-24: Army Coders](https://coders.army/)
-
-</div>
 
 <style>
 @media only screen and (max-width: 600px) {
@@ -163,7 +126,7 @@ var TxtType = function(el, toRotate, period) {
         // INJECT CSS
         var css = document.createElement("style");
         css.type = "text/css";
-        css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
+        css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #aaa}";
         document.body.appendChild(css);
     };
 </script>

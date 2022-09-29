@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+comments: true
+---
+
 # Find a Project!
 
 Are you looking for an extra project to sharpen your skill set? 
@@ -9,9 +15,9 @@ The Project on Innovation in National Security is an exploratory effort incubate
 [:octicons-arrow-right-24: Learn more about this Project](https://www.nationalsecurityinnovation.org/)
 
 </br>
-## Government Github
+## Github and Government
 ![Github Logo](assets/organizations/github.png){: align="right" style="width:150px;"}
-Want to find an Open Source project you can contribute to right now? [Government Github](https://government.github.com/) has a list of every single public government organization on Github. This is an easy and fast way to find repositories that interest you.
+Want to find an Open Source project you can contribute to right now? [Github and Government](https://government.github.com/) has a list of every single public government organization on Github. This is an easy and fast way to find repositories that interest you.
 
 > Government agencies at the national, state, and local level use GitHub to share and collaborate. If you don't see your organization on this list, follow the instructions below to add it! [^1]
 
