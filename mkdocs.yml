@@ -83,6 +83,7 @@ markdown_extensions:
       custom_checkbox: true
 
 plugins:
+  - search
   - social:
       cards_color:
         fill: "#252a34" 
