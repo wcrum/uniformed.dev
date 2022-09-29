@@ -5,6 +5,7 @@ comments: true
 
 # About Uniformed.dev
 ## What is Uniformed.dev?
+![Uniformed Dev Logo](assets/uniformed_logo.png){: align="right" style="width: 150px" }
 
 Uniformed.dev was created by William Crum, a nerd at heart. This site is meant for individuals who are asking themselves: *how can I make a solution for my branch, my community to help the mission?*
 
