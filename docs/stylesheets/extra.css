@@ -32,6 +32,9 @@
 
 }
 
+.admonition p {
+    font-size: .8rem !important;
+}
 
 .md-banner {
     background-color: var(--marine-coders-bg--dark);

@@ -1,5 +1,6 @@
 ---
 hide:
+  - navigation
 comments: true
 ---
 
